@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋 My name is Liz and I am new software developer. A little about me: I love cats, tech, DIY projects, travel, outdoor activites, fitness & keto. I am always open to learn new things and collaborate with others, so please feel free to reach out! 😺
 
 <!--
 **spicy-aioli/spicy-aioli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
